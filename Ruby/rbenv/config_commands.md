@@ -10,6 +10,7 @@ $ brew uninstall rbenv
 ```sh
 $ rbenv local 2.2.2
 ```
+
 #### Sets the global version of Ruby to be used in all shells
 ```sh
 rbenv global 2.2.1
